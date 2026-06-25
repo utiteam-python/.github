@@ -10,6 +10,6 @@
 
 Noi facciamo librerie Python per rendere il mondo migliore e minimalista!
 
-Abbiamo pubblicato Zompi, DeWeb e Utiilityes.
+Abbiamo pubblicato [Zompi](https://github.com/utiteam-python/zompi), [DeWeb](https://github.com/utiteam-python/DeWeb) e [Utiilityes](https://github.com/utiteam-python/utiilityes), ma noi facciamo anche [WebPlatform](https://github.com/utiteam-python/WebPlatform)
 
 Puoi esplorare il sito qui: https://utiteam-python.github.io
